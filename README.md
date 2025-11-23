@@ -56,7 +56,7 @@ Create a file named .env in the project root directory and add your Ticketmaster
 
 ⚠️ Important: Ensure you have enabled Public APIs in the Ticketmaster Developer Console and use the Consumer Key.
 
-TICKETMASTER_API_KEY=YOUR_KEY_HERE
+TICKETMASTER_API_KEY=dqZ7xvZMTfWLfkKpvA537w62xdVLIXRK
 4. iOS Specific Setup
 Navigate into the ios directory to install native dependencies:
 
